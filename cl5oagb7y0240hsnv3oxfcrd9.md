@@ -1,4 +1,4 @@
-## An Introduction To Redux In Harm and Harm Reduction
+## An Introduction To Redux In Press and Harm Reduction
 
 
 ![IMG_20220711_005707.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1657998546438/l2oFwe9Bq.jpg align="left")
